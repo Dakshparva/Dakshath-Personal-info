@@ -7,8 +7,8 @@ function Home() {
   return (
     <div className="home">
       <div className="about">
-        <h2> Hi, My Name is </h2>
-    <h3>Dakshath Kumar N</h3>
+        <h3> Hi, My Name is </h3>
+    <h2>Dakshath Kumar N</h2>
         <div className="prompt">
           <p>Assistant Engineer at Sandvik Mining and Rock Technology.</p>
           <a href="https://www.linkedin.com/in/dakshath-kumar-n-4a2a66114"><LinkedInIcon  /></a>
