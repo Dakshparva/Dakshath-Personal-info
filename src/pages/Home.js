@@ -7,7 +7,7 @@ function Home() {
   return (
     <div className="home">
       <div className="about">
-        <h3> Hi, My Name is </h3>
+        <p> Hi, My Name is </p>
     <h2>Dakshath Kumar N</h2>
         <div className="prompt">
           <p>Assistant Engineer at Sandvik Mining and Rock Technology.</p>
