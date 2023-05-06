@@ -26,8 +26,10 @@ function Home() {
              listening Music            </span>
           </li>
           <li className="item">
-            <h2>Event-Management done by Me</h2>
-            <a href="https://dakshparva.github.io/eventmanagement1/">EventmanagementApp</a>
+            <h2>Event-Management 
+    done by Me</h2>
+            <a href="https://dakshparva.github.io/eventmanagement1/">
+    EventmanagementApp</a>
           </li>
         </ol>
       </div>
