@@ -7,13 +7,11 @@ function Home() {
   return (
     <div className="home">
       <div className="about">
-<<<<<<< HEAD
         <h2> Hi, My Name is 
           Dakshath Kumar N</h2>
-=======
+
         <p> Hi, My Name is </p>
     <h2>Dakshath Kumar N</h2>
->>>>>>> 8ced782a12770f0c07f3a1af6106b50cf25c040e
         <div className="prompt">
           <p>Assistant Engineer at Sandvik Mining and Rock Technology.</p>
           <a href="https://www.linkedin.com/in/dakshath-kumar-n-4a2a66114"><LinkedInIcon  /></a>
@@ -32,15 +30,9 @@ function Home() {
           </li>
           <li className="item">
             <h2>Event-Management 
-<<<<<<< HEAD
               done by Me</h2>
             <a href="https://dakshparva.github.io/eventmanagement1/">
               EventmanagementApp</a>
-=======
-    done by Me</h2>
-   <a href="https://dakshparva.github.io/eventmanagement1/">
-    EventmanagementApp</a>
->>>>>>> 8ced782a12770f0c07f3a1af6106b50cf25c040e
           </li>
         </ol>
       </div>
