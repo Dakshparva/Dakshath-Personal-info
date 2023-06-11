@@ -13,10 +13,17 @@
   font-size: 35px;
 }
 .project img {
-  width: 700px;
+ object-fit: scale-down;
+  width: 200px;
+  height: 200px;
+  transition: width 2s;
   border-radius: 10px;
 }
 
+.project img:hover {
+  width: 500px;
+  height: 500px;
+}
 .project p {
   font-size: 40px;
   color: #3e497a;
