@@ -15,7 +15,7 @@ import Proj13 from "../assets/proj13.jpeg";
 import Proj14 from "../assets/proj14.jpeg";
 import Proj15 from "../assets/proj15.jpeg";
 import Proj16 from "../assets/proj16.jpeg";
-import Proj17 from "../assets/proj16.jpeg";
+import Proj17 from "../assets/proj17.jpeg";
 
 
 export const ProjectList = [
