@@ -64,7 +64,7 @@ function Experience() {
           icon={<DnsOutlined />}
         >
           <h3 className="vertical-timeline-element-title">
-            Nakshatra - Uttarashada
+            Nakshatra - Purva Ashadha
           </h3>
         </VerticalTimelineElement>
         <VerticalTimelineElement
