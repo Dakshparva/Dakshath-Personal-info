@@ -29,7 +29,7 @@ function Home() {
             <h2>Event-Management 
               done by Me</h2>
             <a href="https://dakshparva.github.io/eventmanagement1/">
-              EventmanagementApp</a>
+              <span>EventmanagementApp</span></a>
           </li>
         </ol>
       </div>
