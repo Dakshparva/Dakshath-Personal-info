@@ -7,7 +7,8 @@ function Home() {
   return (
     <div className="home">
       <div className="about">
-        <h2> Hi, My Name is Dakshath Kumar N</h2>
+        <h2> Hi, My Name is 
+          Dakshath Kumar N</h2>
         <div className="prompt">
           <p>Assistant Engineer at Sandvik Mining and Rock Technology.</p>
           <a href="https://www.linkedin.com/in/dakshath-kumar-n-4a2a66114"><LinkedInIcon  /></a>
@@ -25,8 +26,10 @@ function Home() {
              listening Music            </span>
           </li>
           <li className="item">
-            <h2>Event-Management done by Me</h2>
-            <a href="https://dakshparva.github.io/eventmanagement1/">EventmanagementApp</a>
+            <h2>Event-Management 
+              done by Me</h2>
+            <a href="https://dakshparva.github.io/eventmanagement1/">
+              EventmanagementApp</a>
           </li>
         </ol>
       </div>
