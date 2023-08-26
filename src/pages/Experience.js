@@ -117,11 +117,9 @@ function Experience() {
           icon={<WorkIcon />}
         >
           <h3 className="vertical-timeline-element-title">
-            Assistant Engineer - Sandvik mining and Rock Technology
+            Software Engineer - Sandhata Technologies pvt.Ltd
           </h3>
-          <h4 className="vertical-timeline-element-subtitle">
-            Mg Road, Bengaluru
-          </h4>
+          
         </VerticalTimelineElement>
       </VerticalTimeline>
     </div>
