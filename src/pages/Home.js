@@ -8,7 +8,7 @@ function Home() {
         <h3> Hi, My Name is </h3>
         <h2>Dakshath Kumar N</h2>
         <div className="prompt">
-          <p>Assistant Engineer at Sandvik Mining and Rock Technology.</p>
+          <p>Software Engineer at Sandhata Technologies Pvt.Ltd.</p>
         </div>
       </div>
       <div className="skills">
